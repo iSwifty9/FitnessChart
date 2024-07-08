@@ -1,0 +1,13 @@
+# Xcode specific files
+.DS_Store
+xcuserdata
+*.xcuserstate
+
+# Build artifacts
+DerivedData/
+Build/
+*.ipa
+*.app
+
+# SwiftPM
+/.swiftpm/
