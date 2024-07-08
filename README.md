@@ -33,3 +33,11 @@ Supports iOS 16.0 and above.
 
 ### Dev Tools:
 Built with Xcode 15.4.
+
+## Screenshots
+
+<p>
+<img src="./screenshots/exercise_list.png" width=200 />
+<img src="./screenshots/exercise_detail.png" width=200 />
+<img src="./screenshots/exercise_detail2.png" width=200 />
+</p>
